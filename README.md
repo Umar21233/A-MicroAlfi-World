@@ -102,7 +102,7 @@ If you use this code, please cite the paper (citation details will be added on p
   author = {Umar, Muhammad and Maul, Tomas},
   title  = {MicroAlfi World: reinforcement learning control of a simulated microalgae bioreactor},
   year   = {2026},
-  doi    = {ZENODO-DOI},
+  doi    = {10.5281/zenodo.24293470},
   url    = {https://github.com/Umar21233/A-MicroAlfi-World}
 }
 ```
