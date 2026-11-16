@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
+*.egg-info/
+paper_figures_incoming/
+
+# Raw read-only Colab downloads -- never committed, integrity tracked via
+# data_manifest.json (sha256 of every file) instead.
+Colab training results/
+
+# Legacy per-run outputs written by training/evaluation scripts.
+results/*
+!results/.gitkeep

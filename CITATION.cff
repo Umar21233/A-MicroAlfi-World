@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MicroAlfi World: reinforcement learning control of a simulated microalgae bioreactor"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Umar21233/A-MicroAlfi-World"
+authors:
+  - family-names: Umar
+    given-names: Muhammad
+    affiliation: "University of Nottingham Malaysia"
+  - family-names: Maul
+    given-names: Tomas
+    affiliation: "University of Nottingham Malaysia"
+preferred-citation:
+  type: article
+  title: "Reinforcement Learning for Control of a Simulated Microalgae Bioreactor: Algorithm, Reward and Robustness Comparisons"
+  authors:
+    - family-names: Umar
+      given-names: Muhammad
+      affiliation: "University of Nottingham Malaysia"
+    - family-names: Maul
+      given-names: Tomas
+      affiliation: "University of Nottingham Malaysia"
+  journal: "Computers & Chemical Engineering"
+  year: 2026
